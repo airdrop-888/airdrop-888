@@ -50,9 +50,8 @@
 ---
 
 ### 🚀 My Latest Projects:
-- [Project 1](https://github.com/marioatmajanugraha/project-1): Brief description here.
-- [Project 2](https://github.com/marioatmajanugraha/project-2): Brief description here.
-- [Project 3](https://github.com/marioatmajanugraha/project-3): Brief description here.
+- [Project Nodepay Checker] https://github.com/marioatmajanugraha/NodepayChecker888 : Check if you account is Eligable or not! with this bot.
+- [Project OASIS888] https://github.com/marioatmajanugraha/OASIS888 : Automation your Account to Ping.
 
 ---
 
