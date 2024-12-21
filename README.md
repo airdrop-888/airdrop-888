@@ -50,7 +50,7 @@
 ---
 
 ### 🚀 My Latest Projects:
-- [Project Nodepay Checker] https://github.com/marioatmajanugraha/NodepayChecker888 : Check if you account is Eligable or not! with this bot.
+- [Project Nodepay Checker] https://github.com/marioatmajanugraha/NodepayChecker888 : Check if you account is Eligable.
 - [Project OASIS888] https://github.com/marioatmajanugraha/OASIS888 : Automation your Account to Ping.
 
 ---
