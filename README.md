@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Mario Atmaja Nugraha</h1>
+<h1 align="center">Hi there! 👋 I'm the owner of Airdrop 888</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Lover;Problem+Solver" />
 </p>
